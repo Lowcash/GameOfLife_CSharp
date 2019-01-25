@@ -1,0 +1,10 @@
+C:\Users\mac0348\source\repos\GameOfLife_PAI\GameOfLife_PAI\bin\Debug\GameOfLife_PAI.exe.config
+C:\Users\mac0348\source\repos\GameOfLife_PAI\GameOfLife_PAI\bin\Debug\GameOfLife_PAI.exe
+C:\Users\mac0348\source\repos\GameOfLife_PAI\GameOfLife_PAI\bin\Debug\GameOfLife_PAI.pdb
+C:\Users\mac0348\source\repos\GameOfLife_PAI\GameOfLife_PAI\obj\Debug\GameOfLife_PAI.Properties.Resources.resources
+C:\Users\mac0348\source\repos\GameOfLife_PAI\GameOfLife_PAI\obj\Debug\GameOfLife_PAI.csproj.GenerateResource.cache
+C:\Users\mac0348\source\repos\GameOfLife_PAI\GameOfLife_PAI\obj\Debug\GameOfLife_PAI.exe
+C:\Users\mac0348\source\repos\GameOfLife_PAI\GameOfLife_PAI\obj\Debug\GameOfLife_PAI.pdb
+C:\Users\mac0348\source\repos\GameOfLife_PAI\GameOfLife_PAI\obj\Debug\GameOfLife_PAI.GameOfLife.resources
+C:\Users\mac0348\source\repos\GameOfLife_PAI\GameOfLife_PAI\obj\Debug\GameOfLife_PAI.csprojAssemblyReference.cache
+C:\Users\mac0348\source\repos\GameOfLife_PAI\GameOfLife_PAI\obj\Debug\GameOfLife_PAI.csproj.CoreCompileInputs.cache
