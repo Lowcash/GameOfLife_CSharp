@@ -259,7 +259,12 @@ namespace GameOfLife_PAI
 
         private void GameOfLife_FormClosed(object sender, FormClosedEventArgs e)
         {
-            Environment.Exit(Environment.ExitCode);
+            try
+            {
+                Environment.Exit(Environment.ExitCode);
+            } catch (Exception) {
+                Console.WriteLine(string.Format("Application was not terminated correctly!"));
+            }
         }
     }
 }
